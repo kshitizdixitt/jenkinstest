@@ -21,7 +21,7 @@ node(){
     }
 
     stage('Package Build') {
-        sh "tar -zcvf bundle.tar.gz /var/www/html/angularprojects/firstapp/dist/"
+        echo "kshitiz vhai"
     }
 
     
